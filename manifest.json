@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "ump-inspector",
+  "version": "1.0.0",
+  "author": "LuanRT",
+  "description": "A browser extension for inspecting and debugging UMP requests on YouTube.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*" ],
+      "js": ["dist/content.bundle.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/injected.bundle.js"],
+      "matches": ["*://*.youtube.com/*" ]
+    }
+  ]
+}
