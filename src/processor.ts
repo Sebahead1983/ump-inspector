@@ -155,10 +155,9 @@ export function processUmpResponse(url: string, requestBody: ArrayBuffer, respon
     logSeparator(colors, 'UMP TRACE END');
     console.log('');
   } catch (error) {
-    const colors2 = getPalette();
     console.error(
       '%c❌ UMP Inspector Error:',
-      `color:${colors2.error};font-weight:700;`,
+      `color:${colors.error};font-weight:700;`,
       error
     );
   }
