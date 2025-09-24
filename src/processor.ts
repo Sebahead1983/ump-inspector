@@ -22,6 +22,7 @@ import {
   SnackbarMessage,
   FormatSelectionConfig
 } from 'googlevideo/protos';
+
 import { formatSize, getPalette, logSeparator } from './helpers';
 
 type UmpPartHandler = (part: Part) => any;
