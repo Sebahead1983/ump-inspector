@@ -1,4 +1,4 @@
-# UMP Inspector
+# ump-inspector
 
 A browser extension for inspecting and debugging UMP requests on YouTube. It hooks into the response processing to provide decoded, human-readable info into the UMP parts as well as request payloads.
 
