@@ -2,6 +2,9 @@
 
 A browser extension for inspecting and debugging UMP requests on YouTube. It hooks into the response processing to provide decoded, human-readable info into the UMP parts as well as request payloads.
 
+## Screenshots
+<img width="682" height="581" alt="Screenshot 2025-09-23 211703" src="https://github.com/user-attachments/assets/7da0980b-23ea-4e8a-b32a-2e1ec481ea7c" />
+
 ## Installation
 
 To install this extension, you need to load it as an unpacked extension in a Chromium-based browser.
