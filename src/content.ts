@@ -1,7 +1,9 @@
+declare const browser: typeof chrome | undefined;
+
 function injectScript(): void {
   try {
     const script = document.createElement('script');
-    const runtime = (browser ?? chrome).runtime;
+    const runtime = (typeof browser !== 'undefined' ? browser : chrome).runtime;
     script.src = runtime.getURL('dist/injected.bundle.js');
     (document.head || document.documentElement).appendChild(script);
     script.onload = () => script.remove();
