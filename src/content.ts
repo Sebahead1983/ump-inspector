@@ -1,5 +1,3 @@
-declare const browser: typeof chrome | undefined;
-
 function injectScript(): void {
   try {
     const script = document.createElement('script');
